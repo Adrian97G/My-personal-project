@@ -11,7 +11,7 @@ Welcome to my personal portfolio! Here you can find some of the projects I have 
 
 ## :camera_flash: Project Image
 
-![My Project](/images/My%20Personal%20portfolio.PNG)
+![My Project](https://github.com/Adrian97G/My-personal-project/blob/main/MyProject.PNG)
 
 ## :link: Link to see the project in action
 
